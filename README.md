@@ -2,9 +2,9 @@
 
 This repository includes the R-script and data needed to replicate the results of the following study:
 
-* Buschke, F.T. Neutral theory exposes the challenge of bending the curve of biodiversity loss for the post-2020 Global Biodiversity Framework. *Unpublished manuscript*
+* Buschke, F.T. Neutral theory exposes the challenge of bending the curve of biodiversity loss for the post-2020 Global Biodiversity Framework. 
 
-The code was accurate as of 04 March 2021. For any queries, contact the author at `falko.buschke@gmail.com`
+The code was accurate as of 21 July 2021. For any queries, contact the author at `falko.buschke@gmail.com`
 
 ## Description of the code
 
