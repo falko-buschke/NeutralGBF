@@ -1,4 +1,4 @@
-# Neutral Theory and biodiversity indactors for the post-2020 Global Biodiversity Framework
+# Neutral Theory and biodiversity indictors for the post-2020 Global Biodiversity Framework
 
 This repository includes the R-script and data needed to replicate the results of the following study:
 
